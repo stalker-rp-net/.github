@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stalker-rp-net/api-doc/wiki/Introduction">
+  <a href="https://github.com/stalker-rp-net/api-doc/wiki">
     <img src="https://img.shields.io/badge/API_Docs-9083D2?logoColor=9083D2" />
   </a>
 </p>
