@@ -1,6 +1,6 @@
 <p align="center">
   <a aria-label="stalker-rp.net logo" href="https://stalker-rp.net">
-    <img src="https://beta.stalker-rp.net/application/public/img/srp_logotype.png" width="210" />
+    <img src="https://avatars.githubusercontent.com/u/128098086" width="210" />
   </a>
 </p>
 
